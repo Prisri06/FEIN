@@ -8,9 +8,13 @@ Water quality monitoring is crucial to public health, environmental regulation, 
 
 ## Proposed/implemented parameters
   TDS (Total Dissolved Solids): measures concentration of dissolved salts, minerals, and organic matter, in terms of parts per million
+  
   ORP (Oxidation Reduction Potential): measures the strength of oxidizing and reducing agents in the water, in terms of voltage, with positive values corresponding to higher levels of oxidizing agents
+  
   Conductivity: measures how well the water conducts electricity, in terms of siemens per unit distance. This value is used to determined total dissolved solids
+  
   pH: measures acidity of water
+  
   Free Chlorine: measures concentration of chlorine available to sanitize contaminants
 
 
